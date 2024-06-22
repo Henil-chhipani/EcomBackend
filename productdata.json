@@ -1,0 +1,108 @@
+[
+  {
+    "name": "Wireless Headphones",
+    "description": "Enjoy crystal-clear audio with these comfortable wireless headphones. Perfect for music, movies, and calls.",
+    "price": 79.99,
+    "stock": 50,
+    "category": "Electronics",
+    "thumbnail": "thumbnail.jpg"
+  },
+  {
+      "name": "Running Shoes",
+      "description": "Lightweight and breathable running shoes for a comfortable and supportive run.",
+      "price": 99.95,
+      "stock": 100,
+      "category": "Clothing",
+      "subCategory": "Shoes",
+      "brand": "Acme",
+      "thumbnail": "thumbnail2.jpg"
+  },
+  {
+    "name": "Classic Novel Collection",
+    "description": "A beautiful boxed set of five classic novels by renowned authors.",
+    "price": 39.99,
+    "stock": 25,
+    "category": "Books",
+    "thumbnail": "thumbnail3.jpg"
+  },
+  {
+    "name": "Wireless Headphones",
+    "description": "Enjoy crystal-clear audio with these comfortable wireless headphones. Perfect for music, movies, and calls.",
+    "price": 79.99,
+    "stock": 50,
+    "category": "Electronics",
+    "productImage": "thumbnail1.jpg"
+  },
+  {
+    "name": "Running Shoes",
+    "description": "Lightweight and breathable running shoes for a comfortable and supportive run.",
+    "price": 99.95,
+    "stock": 100,
+    "category": "Clothing",
+    "productImage": "thumbnail2.jpg"
+  },
+  {
+    "name": "Classic Novel Collection",
+    "description": "A beautiful boxed set of five classic novels by renowned authors.",
+    "price": 39.99,
+    "stock": 25,
+    "category": "Books",
+    "productImage": "thumbnail3.jpg" 
+  },
+  {
+    "name": "Smartwatch",
+    "description": "Track your fitness goals and stay connected with this stylish smartwatch.",
+    "price": 249.0,
+    "stock": 75,
+    "category": "Electronics",
+    "productImage": "thumbnail4.jpg"
+  },
+  {
+    "name": "Plush Toy (Bear)",
+    "description": "A cuddly and adorable plush bear, perfect for children of all ages.",
+    "price": 19.99,
+    "stock": 200,
+    "category": "Toys",
+    "productImage": "thumbnail5.jpg"
+  },
+  {
+    "name": "Gaming Keyboard",
+    "description": "A high-performance mechanical keyboard for a competitive gaming edge.",
+    "price": 149.99,
+    "stock": 30,
+    "category": "Electronics",
+    "productImage": "thumbnail6.jpg"
+  },
+  {
+    "name": "Backpack",
+    "description": "A stylish and durable backpack for everyday use or travel adventures.",
+    "price": 69.99,
+    "stock": 80,
+    "category": "Clothing",
+    "productImage": "thumbnail7.jpg"
+  },
+  {
+    "name": "Coffee Maker",
+    "description": "Brew your favorite coffee at home with this convenient and easy-to-use coffee maker.",
+    "price": 49.99,
+    "stock": 45,
+    "category": "Kitchen",
+    "productImage": "thumbnail8.jpg"
+  },
+  {
+    "name": "Fitness Tracker",
+    "description": "Track your steps, calories burned, and sleep patterns with this sleek fitness tracker.",
+    "price": 79.95,
+    "stock": 60,
+    "category": "Electronics",
+    "productImage": "thumbnail9.jpg"
+  },
+  {
+    "name": "Wooden Chess Set",
+    "description": "A beautiful and handcrafted wooden chess set for a timeless game experience.",
+    "price": 99.99,
+    "stock": 25,
+    "category": "Games",
+    "productImage": "thumbnail10.jpg"
+  }
+]
