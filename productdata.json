@@ -5,7 +5,7 @@
     "price": 79.99,
     "stock": 50,
     "category": "Electronics",
-    "thumbnail": "thumbnail.jpg"
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTOzBkQNkL1r5R5TK7zzDKijM1-P57b9_tw&s"
   },
   {
       "name": "Running Shoes",
@@ -13,9 +13,7 @@
       "price": 99.95,
       "stock": 100,
       "category": "Clothing",
-      "subCategory": "Shoes",
-      "brand": "Acme",
-      "thumbnail": "thumbnail2.jpg"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTOzBkQNkL1r5R5TK7zzDKijM1-P57b9_tw&s"
   },
   {
     "name": "Classic Novel Collection",
@@ -23,7 +21,7 @@
     "price": 39.99,
     "stock": 25,
     "category": "Books",
-    "thumbnail": "thumbnail3.jpg"
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTOzBkQNkL1r5R5TK7zzDKijM1-P57b9_tw&s"
   },
   {
     "name": "Wireless Headphones",
@@ -31,7 +29,7 @@
     "price": 79.99,
     "stock": 50,
     "category": "Electronics",
-    "productImage": "thumbnail1.jpg"
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTOzBkQNkL1r5R5TK7zzDKijM1-P57b9_tw&s"
   },
   {
     "name": "Running Shoes",
@@ -39,7 +37,7 @@
     "price": 99.95,
     "stock": 100,
     "category": "Clothing",
-    "productImage": "thumbnail2.jpg"
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTOzBkQNkL1r5R5TK7zzDKijM1-P57b9_tw&s"
   },
   {
     "name": "Classic Novel Collection",
@@ -47,7 +45,7 @@
     "price": 39.99,
     "stock": 25,
     "category": "Books",
-    "productImage": "thumbnail3.jpg" 
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTOzBkQNkL1r5R5TK7zzDKijM1-P57b9_tw&s" 
   },
   {
     "name": "Smartwatch",
@@ -55,7 +53,7 @@
     "price": 249.0,
     "stock": 75,
     "category": "Electronics",
-    "productImage": "thumbnail4.jpg"
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTOzBkQNkL1r5R5TK7zzDKijM1-P57b9_tw&s"
   },
   {
     "name": "Plush Toy (Bear)",
@@ -63,7 +61,7 @@
     "price": 19.99,
     "stock": 200,
     "category": "Toys",
-    "productImage": "thumbnail5.jpg"
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTOzBkQNkL1r5R5TK7zzDKijM1-P57b9_tw&s"
   },
   {
     "name": "Gaming Keyboard",
@@ -71,7 +69,7 @@
     "price": 149.99,
     "stock": 30,
     "category": "Electronics",
-    "productImage": "thumbnail6.jpg"
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTOzBkQNkL1r5R5TK7zzDKijM1-P57b9_tw&s"
   },
   {
     "name": "Backpack",
@@ -79,7 +77,7 @@
     "price": 69.99,
     "stock": 80,
     "category": "Clothing",
-    "productImage": "thumbnail7.jpg"
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTOzBkQNkL1r5R5TK7zzDKijM1-P57b9_tw&s"
   },
   {
     "name": "Coffee Maker",
@@ -87,7 +85,7 @@
     "price": 49.99,
     "stock": 45,
     "category": "Kitchen",
-    "productImage": "thumbnail8.jpg"
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTOzBkQNkL1r5R5TK7zzDKijM1-P57b9_tw&s"
   },
   {
     "name": "Fitness Tracker",
@@ -95,7 +93,7 @@
     "price": 79.95,
     "stock": 60,
     "category": "Electronics",
-    "productImage": "thumbnail9.jpg"
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTOzBkQNkL1r5R5TK7zzDKijM1-P57b9_tw&s"
   },
   {
     "name": "Wooden Chess Set",
@@ -103,6 +101,6 @@
     "price": 99.99,
     "stock": 25,
     "category": "Games",
-    "productImage": "thumbnail10.jpg"
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTOzBkQNkL1r5R5TK7zzDKijM1-P57b9_tw&s"
   }
 ]
